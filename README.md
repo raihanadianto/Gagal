@@ -1,2 +1,0 @@
-# Gagal
-Belajar Git
